@@ -1,4 +1,4 @@
-Game Exchange is an app that connects two people. 
+Game Exchange is an app that connects two kinds of people. 
 1) People who want to rent their old games for $$$
 2) People who want to play the newest games but not have to pay the high prices to own them
 
