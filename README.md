@@ -5,3 +5,5 @@ Game Exchange is an app that connects two kinds of people.
 Both of these people can be satisfied with Game Exchange, a market place app that connects people who love their video games.
 
 Game Exchange was a project created throughout the course of 1 week by Gavin, Shouko and Nii using Ruby on Rails.
+
+Find the Game Exchange here: https://game-exchange1.herokuapp.com/
